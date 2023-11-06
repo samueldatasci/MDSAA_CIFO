@@ -1,2 +1,2 @@
-# Generic Algorithms
-# Particle Swarm Optimization
+### Generic Algorithms
+### Particle Swarm Optimization
